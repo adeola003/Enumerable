@@ -9,3 +9,5 @@ class MyList
       @list.each { |element| yield element }
     end
   end
+
+  #Results
