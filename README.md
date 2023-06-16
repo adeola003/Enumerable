@@ -11,7 +11,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Vet\_clinic\] ](#-vet_clinic-)
+- [📖 \[Vet_clinic\] ](#-vet_clinic-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -38,41 +38,33 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-
 <details>
   <summary>Ruby</summary>
 </details>
-
-
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-
 - **[Database of Animals informations]**
 - **[Filtering animals with age and others parameters]**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running, follow these steps.
-
 
 ### Prerequisites
 
-In order to run this project you need: 
-
+In order to run this project you need:
 
 ### Setup
+
 Clone this repository to your desired folder:
 
 ```sh
@@ -81,14 +73,13 @@ Clone this repository to your desired folder:
 ```
 
 ### Install
--Command: install bundle
 
+-Command: install bundle
 
 <!-- ### Usage
 -step 1: create Database vet clinic
 -step 2: create table animals
 insert files... -->
-
 
 <!-- AUTHORS -->
 
@@ -97,6 +88,12 @@ insert files... -->
 - GitHub: [@githubhandle](https://github.com/adeola003)
 - Twitter: [@twitterhandle](https://twitter.com/khadaf6)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdel-khafid-salaou)
+
+👤 **Ekiugbo Blessing**
+
+- Twitter: [@twitterhandle](https://twitter.com/O_tegaaa)
+- GitHub: [@Otegaa](https://github.com/Otegaa)
+- LinkedIn: [blessing-ekiugbo](https://www.linkedin.com/in/blessing-ekiugbo/)
 
 <!-- FUTURE FEATURES -->
 
@@ -111,13 +108,11 @@ insert files... -->
 
 Contributions, issues, and feature requests are welcome!
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
 
 If you like this repo dont forget to give it a star.
 
